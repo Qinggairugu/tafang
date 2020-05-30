@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file>begin_.png</file>
+        <file>bullet.png</file>
+        <file>button1.png</file>
+        <file>button2.png</file>
+        <file>button3.png</file>
+        <file>ditu.png</file>
+        <file>dongfangbubai.png</file>
+        <file>enemy.png</file>
+        <file>huangyaoshi.png</file>
+        <file>menu_.png</file>
+        <file>open_spot.png</file>
+        <file>tower.png</file>
+    </qresource>
+</RCC>
